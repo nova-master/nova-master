@@ -2,7 +2,7 @@
 
 
 - 🔭 As an "electronics engineer", my area of expertise and passion lies in Reverse Engineering,  
-      which has led me to become a proficient 	`#0969DA` `Embedded Device Developer`.
+      which has led me to become a proficient 	`#RRGGBB` `Embedded Device Developer`.
 
 - 🌱 I’m currently learning ...
 
