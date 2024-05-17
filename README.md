@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Nova</h1>
-<h3 align="center">As an `electronics engineer`, my area of expertise and passion lies in `Reverse Engineering` which has led me to become a proficient `Embedded Device Developer</h3>
+<h3 align="center">I'm an <code>electronics engineer</code> with a deep passion and expertise in <code>Reverse Engineering</code>, which has led me to become a proficient <code>Embedded Device Developer</code>.</h3>
 
-<div style="text-align: left;">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="logo" width="350" height="150"/>
+</div>
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nova-master&label=Profile%20views&color=0e75b6&style=flat" alt="nova-master" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nova-master&label=Profile%20views&color=0e75b6&style=flat" alt="nova-master" />
+</p>
 
 - 🔭 I’m currently working on [UEFI, Reverse Engineering](https://github.com/nova-master/UEFI-ChainLoader)
 
