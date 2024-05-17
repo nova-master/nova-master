@@ -5,10 +5,7 @@
 <div align="right">
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="logo" width="350" height="150"/>
 </div>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nova-master&label=Profile%20views&color=0e75b6&style=flat" alt="nova-master" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nova-master&label=Profile%20views&color=0e75b6&style=flat" alt="nova-master" /> </p>
 
 - 🔭 I’m currently working on [UEFI, Reverse Engineering](https://github.com/nova-master/UEFI-ChainLoader)
 
@@ -22,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/nova-master-7bab1a235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nova-master-7bab1a235/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nova-master-7bab1a235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nova-master-7bab1a235/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
